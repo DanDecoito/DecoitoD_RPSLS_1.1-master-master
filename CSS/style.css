@@ -1,0 +1,83 @@
+body {
+    background-color: #242331;
+    color: white;
+}
+
+
+.titleText {
+    font-size: 48px;
+    text-align: center;
+    color: #0091AD;
+    font-family: 'Lemon', cursive;
+    padding-top: 20px;
+    padding-bottom: 20px 
+}
+
+.gameCanvas {
+    background-color: #5C4D7D;
+    height: 430px;
+    width: 1081px;
+    position: relative;
+    top: 37.5px;
+}
+.deepBackground {
+    background-color: #723C70;
+    height: 505px;
+    width: 1192px;
+    
+}
+.roundText {
+    font-size: 48px;
+    text-align: center;
+    color: #0091AD;
+    font-family: 'Lemon', cursive;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.gameIcons {
+    height: 106px;
+    width: 109px;  
+}
+.gameButtons {
+    background-color: #5C4D7D;
+}
+.buttonRow {
+    margin-top: 30px;
+    margin-left: 22px;
+}
+.playerPrompt {
+    font-size: 48px;
+    text-align: center;
+    color: #0091AD;
+    font-family: 'Lemon', cursive;
+    padding-top: 60px;
+}
+.oneHeart {
+    height: 155px;
+    width: 160px;
+}
+.playerText {
+    font-size: 48px;
+    text-align: end;
+    color: #0091AD;
+    font-family: 'Lemon', cursive;
+    padding-top: 60px;
+    padding-bottom: 15px;
+}
+.playerTextTwo {
+    font-size: 48px;
+    text-align: start;
+    color: #0091AD;
+    font-family: 'Lemon', cursive;
+    padding-top: 60px;
+    padding-bottom: 15px;
+}
+.heartNumber {
+    font-size: 100px;
+    text-align: center;
+    color: #0091AD;
+    font-family: 'Lemon', cursive;
+    
+    padding-bottom: 15px;
+    
+}
